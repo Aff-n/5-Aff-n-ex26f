@@ -1,0 +1,19 @@
+HW 011 :: What is this Sorcery?
+
+1.1.1 Expressions
+
+What is Lisp?
+
+Expressions with lists in parenthese are called combinations. 
+
+Nesting, in this context, is having elements of a combination be more combinations. When nesting, important to format for readability according to proper conventions.
+
+1.1.2 Naming and the Environment
+
+A name identifies a variable whose value is the object. Define key word used for naming.
+
+Environment - memory that keeps track of the name-object pairs. 
+
+Global environment - memory that keeps track of name-object pairs that can be accessed anywhere in the code. 
+
+Define functions are not combinations as their purpose is to assign a value to a symbol/variable. This is an example of a special form.
