@@ -1,6 +1,6 @@
-## {YOUR NAME HERE}
-### sidekick: {YOUR DUCKY'S NAME HERE}
-### pd{xx}
+## AFFAN JASIM
+### sidekick: Pandy JR.
+### pd05
 # Foundations in CS Daily Work Repository
 ---
 
